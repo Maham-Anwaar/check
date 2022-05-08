@@ -1,4 +1,5 @@
 # Checklist:
 
 - [ ] My code follows the style guidelines of this project
-hi
+- [ ] Do you like Pokemon
+- [ ] yes?
